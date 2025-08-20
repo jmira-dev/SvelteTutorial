@@ -4,7 +4,7 @@ A soup-to-nuts interactive tutorial on how to build apps with Svelte.
 
 ## Setup
 
-This repo uses [pnpm](https://pnpm.io/).
+This repo uses [pnpm](https://pnpm.io/). Yeah!
 
 ## Developing the app
 
